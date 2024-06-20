@@ -2,7 +2,7 @@
 # Dribbble Clone
 
 
-## Deployment : [DribbbleClone.](https://dribble-clone-rouge.vercel.app/)
+## Deployment : [Dribbble-Clone](https://dribble-clone-rouge.vercel.app/)
 
 
 ## I have made the Dribbble clone using belwo tech stack:-
