@@ -5,4 +5,3 @@
 2. TailwindCSS
 3. Framer-motion
 
-# Hosted Link of the Project:- https://dribble-clone-rouge.vercel.app/
